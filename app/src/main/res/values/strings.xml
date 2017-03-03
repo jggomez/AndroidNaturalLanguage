@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NaturalLanguage</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblEscribe">Como estas?? escribenos algo...</string>
+</resources>
